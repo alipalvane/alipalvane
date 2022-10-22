@@ -1,7 +1,6 @@
 [![MasterHead](https://miro.medium.com/max/500/1*SYIdo-EbtmTqVK1VBjYgrA.gif)](https://alipalvane.ir)
 <h1 align="center">Hi 👋, I'm Ali Palvane</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<img align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/722614/screenshots/5877799/media/d193121467b6e267e771a155728db2a9.jpg?compress=1&resize=800x600&vertical=top">
 
 - 🔭 I’m currently working on [Idehalgostar](idehal.org)
 
