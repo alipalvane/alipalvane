@@ -1,5 +1,5 @@
 # 💫 About Me: <h1>👋 Hi ! I'm Ali Palvane</h1>
-<div style="display:flex; gap:5px; flex-wrap:wrap;"><p>🔭 I’m currently working on Espandar Co<br>🌱 I’m currently learning Next.js<br>💬 Ask me about React and Front-end Tech<br>⚡ Fun fact I have INTJ personality <br></p>
+<div style="display:flex; gap:5px; flex-wrap:wrap;"><p>🔭 I’m currently working on Espandar Co<br>🌱 I’m currently learning Node.js<br>💬 Ask me about React and Front-end Tech<br>⚡ Fun fact I have INTJ personality <br></p>
 <a href="https://app.daily.dev/alipalvane"><img src="https://api.daily.dev/devcards/16189782cd8849539008ba2b685f9a0e.png?r=k0v" width="300" alt="Ali Palvane's Dev Card"/></a></div>
 
 ## 🌐 Socials:
